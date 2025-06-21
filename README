@@ -1,2 +1,21 @@
-# This is my Tic-Tac-Toe Project 
-Author:- ABHAY SHUKLA
+# This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+    Play against another player locally in a fun and interactive game interface.
+
+
+🚀 Features
+
+🧠 Two-player mode
+🎨 Simple & clean UI
+💡 Highlight winning combination
+🔄 Restart the game easily
+
+🛠️ Tech Used
+
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+
+![Screenshot]()
+
+✍️ Author 
+    Abhay Shukla
