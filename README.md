@@ -15,7 +15,7 @@ HTML5
 CSS3
 JavaScript (Vanilla JS)
 
-![Screenshot](Screenshot.png)
+![Tic Tac Toe Screenshot](Screenshot.png)
 
 ✍️ Author 
     Abhay Shukla
